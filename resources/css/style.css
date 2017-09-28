@@ -1,7 +1,27 @@
 * {
   text-align: center;
+  font-family: Helvetica;
+}
+
+.top_menu {
+  background-image: url(../media/the-flatiron-building.png);
+}
+
+.link {
+  color: white;
+  font-size: 18px;
+}
+
+.bdmain {
+  color: white;
+  font-size: 70px;
+  font-weight: bold;
 }
 
 #list li {
   list-style-type: none;
+}
+
+div.footer {
+  text-align: left;
 }
