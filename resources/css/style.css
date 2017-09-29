@@ -7,21 +7,52 @@
   background-image: url(../media/the-flatiron-building.png);
 }
 
-.link {
+.top_menu h1,
+.top_menu a,
+h4 {
   color: white;
+}
+
+.link {
   font-size: 18px;
 }
 
-.bdmain {
-  color: white;
+h1 {
   font-size: 70px;
   font-weight: bold;
 }
 
-#list li {
-  list-style-type: none;
+h2 {
+  font-size: 32px;
+  font-weight: bold;
 }
 
-div.footer {
+h3 {
+  font-size: 23;
+  font-weight: bold;
+}
+
+h4 {
+  background-image: url(../media/the-flatiron-building.png);
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.main p {
+  font-size: 14px;
+}
+
+.footer p,
+.footer a {
+  color: white;
+}
+
+.footer p {
+  background-color: dimgray;
   text-align: left;
+  font-size: 11px;
+}
+
+.footer a {
+  font-size: 18px;
 }
